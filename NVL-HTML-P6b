@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Películas </title>
+  </head>
+  <body>
+    <h1> Mis mejores películas </h1>
+     
+     <ul> 
+        <li> Seven </li> 
+        <li> Efecto mariposa </li> 
+        <li> El truco final  </li> 
+        <li> Ahora me ves  </li> 
+        <li> La búsqueda </li> 
+        <li> El Rey León </li> 
+        <li> Origen </li> 
+        <li> Tesis </li> 
+        <li> Coherence </li> 
+        <li> Requiem for a dream </li> 
+      </ul>
+  </body>
+</html>
